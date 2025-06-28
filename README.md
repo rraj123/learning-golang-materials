@@ -102,7 +102,7 @@ A curated list of resources for learning **Go (Golang)**, **AI basics**, and **p
 
 ---
 
-## ✅ Tip
+## ✅ Tips  
 
 You can clone this structure into your personal learning wiki, Notion, or Obsidian vault for ongoing use.
 
